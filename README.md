@@ -90,6 +90,7 @@ Confusion matrix is also a way to evaluate a model's performance, a good model s
 
 <img src="images/ridgeconf.png">   <img src="images/dtconf.png">
 <img src="images/rfconf.png">    <img src="images/lightGBM.png">
+
 From the above observations, it's obvious that ridge regression has the highest accuracy and F-1 score. However, random forest is better at limiting false negatives.
 
 <img src="images/ROC.png"> 
